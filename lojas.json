@@ -1,0 +1,593 @@
+[
+  {
+    "Company": "Kabum",
+    "Item": "Teclado Mecânico",
+    "price": 150.49,
+    "description": "Teclado com interruptores mecânicos para uma experiência de digitação precisa e responsiva."
+  },
+  {
+    "Company": "Kabum",
+    "Item": "Mouse Gamer",
+    "price": 99.99,
+    "description": "Mouse com sensor de alta precisão e design ergonômico para longas sessões de jogo."
+  },
+  {
+    "Company": "Kabum",
+    "Item": "Monitor 27 polegadas",
+    "price": 899.00,
+    "description": "Monitor de alta resolução com taxa de atualização rápida para uma experiência visual imersiva."
+  },
+  {
+    "Company": "Kabum",
+    "Item": "Placa de Vídeo GeForce RTX 3080",
+    "price": 4999.00,
+    "description": "Placa de vídeo poderosa com tecnologia de última geração para jogos e renderização de alta qualidade."
+  },
+  {
+    "Company": "Kabum",
+    "Item": "Processador AMD Ryzen 9 5900X",
+    "price": 2399.00,
+    "description": "Processador de alto desempenho com múltiplos núcleos para multitarefa intensiva e jogos sem interrupções."
+  },
+  {
+    "Company": "Kabum",
+    "Item": "Headset Gamer",
+    "price": 199.90,
+    "description": "Headset com som surround e microfone com cancelamento de ruído para comunicação clara durante o jogo."
+  },
+  {
+    "Company": "Amazon",
+    "Item": "Laptop Dell XPS 15",
+    "price": 1899.99,
+    "description": "Laptop premium com tela 4K, processador Intel Core i7 e placa gráfica dedicada para produtividade e entretenimento."
+  },
+  {
+    "Company": "Amazon",
+    "Item": "SSD Samsung 970 EVO 1TB",
+    "price": 179.99,
+    "description": "Unidade de estado sólido de alta velocidade para inicialização rápida do sistema e tempos de carregamento reduzidos."
+  },
+  {
+    "Company": "Amazon",
+    "Item": "Roteador Wi-Fi TP-Link Archer AX6000",
+    "price": 299.99,
+    "description": "Roteador de última geração com tecnologia Wi-Fi 6 para conexões rápidas e estáveis em toda a casa."
+  },
+  {
+    "Company": "Amazon",
+    "Item": "Câmera Logitech C920 HD Pro",
+    "price": 79.99,
+    "description": "Câmera web de alta definição com microfones duplos para videoconferências e streaming de alta qualidade."
+  },
+  {
+    "Company": "Amazon",
+    "Item": "Impressora HP LaserJet Pro M404dn",
+    "price": 249.99,
+    "description": "Impressora a laser rápida e confiável para documentos nítidos e profissionais."
+  },
+  {
+    "Company": "Newegg",
+    "Item": "Memória RAM Corsair Vengeance RGB Pro 16GB",
+    "price": 109.99,
+    "description": "Módulo de memória DDR4 com iluminação RGB personalizável para desempenho e estilo."
+  },
+  {
+    "Company": "Newegg",
+    "Item": "Placa-mãe ASUS ROG Strix Z590-E Gaming WiFi",
+    "price": 379.99,
+    "description": "Placa-mãe de alto desempenho com suporte a processadores Intel de última geração e conectividade Wi-Fi 6."
+  },
+  {
+    "Company": "Newegg",
+    "Item": "Gabinete NZXT H510 Elite",
+    "price": 149.99,
+    "description": "Gabinete elegante com painel frontal de vidro temperado e iluminação RGB para construções de PC impressionantes."
+  },
+  {
+    "Company": "Newegg",
+    "Item": "Fonte de Alimentação EVGA SuperNOVA 750 G5",
+    "price": 129.99,
+    "description": "Fonte de alimentação modular com certificação 80 Plus Gold para eficiência energética e desempenho confiável."
+  },
+  {
+    "Company": "Newegg",
+    "Item": "Cooler CPU Cooler Master Hyper 212 RGB Black Edition",
+    "price": 44.99,
+    "description": "Cooler de ar para CPU com design eficiente e iluminação RGB para desempenho de resfriamento silencioso."
+  },
+  {
+    "Company": "Kabum",
+    "Item": "Placa de Som Creative Sound BlasterX AE-5",
+    "price": 599.90,
+    "description": "Placa de som de alta resolução com iluminação RGB e amplificador para uma experiência de áudio imersiva."
+  },
+  {
+    "Company": "Kabum",
+    "Item": "Webcam Logitech StreamCam",
+    "price": 499.00,
+    "description": "Webcam de alta definição com captura de vídeo em 1080p/60fps e microfones duplos para streaming profissional."
+  },
+  {
+    "Company": "Kabum",
+    "Item": "Roteador Wi-Fi Asus RT-AX82U AX5400",
+    "price": 999.00,
+    "description": "Roteador Wi-Fi de última geração com tecnologia Wi-Fi 6 para conexões estáveis e velocidades ultrarrápidas."
+  },
+  {
+    "Company": "Kabum",
+    "Item": "Gabinete Gamer Cooler Master MasterBox TD500 Mesh",
+    "price": 599.90,
+    "description": "Gabinete com design de fluxo de ar otimizado e painel frontal de malha para resfriamento eficiente."
+  },
+  {
+    "Company": "Kabum",
+    "Item": "Cadeira Gamer DT3 Sports GT Racer Red",
+    "price": 899.90,
+    "description": "Cadeira ergonômica com design esportivo e ajustes para conforto durante longas sessões de jogo."
+  },
+  {
+    "Company": "Amazon",
+    "Item": "Tablet Apple iPad Pro 12.9 polegadas",
+    "price": 1099.00,
+    "description": "Tablet premium com tela Liquid Retina, chip A12Z Bionic e suporte para Apple Pencil e Magic Keyboard."
+  },
+  {
+    "Company": "Amazon",
+    "Item": "Smartwatch Samsung Galaxy Watch 4",
+    "price": 349.99,
+    "description": "Smartwatch com monitor de saúde avançado, GPS integrado e resistência à água para estilo de vida ativo."
+  },
+  {
+    "Company": "Amazon",
+    "Item": "Impressora 3D Creality Ender 3 V2",
+    "price": 259.00,
+    "description": "Impressora 3D de mesa com estrutura sólida e plataforma de impressão removível para projetos criativos."
+  },
+  {
+    "Company": "Amazon",
+    "Item": "Câmera Mirrorless Sony Alpha a7 III",
+    "price": 1998.00,
+    "description": "Câmera fotográfica de última geração com sensor full-frame, foco automático rápido e gravação de vídeo em 4K."
+  },
+  {
+    "Company": "Amazon",
+    "Item": "Fone de Ouvido Bluetooth Sony WH-1000XM4",
+    "price": 349.99,
+    "description": "Fone de ouvido sem fio com cancelamento de ruído adaptável, qualidade de áudio premium e conforto duradouro."
+  },
+  {
+    "Company": "Newegg",
+    "Item": "Placa de Vídeo MSI GeForce RTX 3060 Ti GAMING X TRIO",
+    "price": 749.99,
+    "description": "Placa de vídeo de alto desempenho com sistema de resfriamento avançado e iluminação RGB personalizável."
+  },
+  {
+    "Company": "Newegg",
+    "Item": "Monitor LG UltraWide 34 polegadas",
+    "price": 799.99,
+    "description": "Monitor ultrawide com resolução QHD e tecnologia IPS para ampla precisão de cores e imersão visual."
+  },
+  {
+    "Company": "Newegg",
+    "Item": "Teclado mecânico Razer BlackWidow Elite",
+    "price": 169.99,
+    "description": "Teclado mecânico com interruptores Razer Green e iluminação Chroma RGB para desempenho personalizável."
+  },
+  {
+    "Company": "Newegg",
+    "Item": "Fone de ouvido SteelSeries Arctis Pro Wireless",
+    "price": 329.99,
+    "description": "Fone de ouvido sem fio para jogos com áudio de alta resolução, microfone com cancelamento de ruído e conforto duradouro."
+  },
+  {
+    "Company": "Kabum",
+    "Item": "Placa de Som Creative Sound BlasterX AE-5",
+    "price": 599.90,
+    "description": "Placa de som de alta resolução com iluminação RGB e amplificador para uma experiência de áudio imersiva."
+  },
+  {
+    "Company": "Kabum",
+    "Item": "Webcam Logitech StreamCam",
+    "price": 499.00,
+    "description": "Webcam de alta definição com captura de vídeo em 1080p/60fps e microfones duplos para streaming profissional."
+  },
+  {
+    "Company": "Kabum",
+    "Item": "Roteador Wi-Fi Asus RT-AX82U AX5400",
+    "price": 999.00,
+    "description": "Roteador Wi-Fi de última geração com tecnologia Wi-Fi 6 para conexões estáveis e velocidades ultrarrápidas."
+  },
+  {
+    "Company": "Kabum",
+    "Item": "Gabinete Gamer Cooler Master MasterBox TD500 Mesh",
+    "price": 599.90,
+    "description": "Gabinete com design de fluxo de ar otimizado e painel frontal de malha para resfriamento eficiente."
+  },
+  {
+    "Company": "Kabum",
+    "Item": "Cadeira Gamer DT3 Sports GT Racer Red",
+    "price": 899.90,
+    "description": "Cadeira ergonômica com design esportivo e ajustes para conforto durante longas sessões de jogo."
+  },
+  {
+    "Company": "Amazon",
+    "Item": "Tablet Apple iPad Pro 12.9 polegadas",
+    "price": 1099.00,
+    "description": "Tablet premium com tela Liquid Retina, chip A12Z Bionic e suporte para Apple Pencil e Magic Keyboard."
+  },
+  {
+    "Company": "Amazon",
+    "Item": "Smartwatch Samsung Galaxy Watch 4",
+    "price": 349.99,
+    "description": "Smartwatch com monitor de saúde avançado, GPS integrado e resistência à água para estilo de vida ativo."
+  },
+  {
+    "Company": "Amazon",
+    "Item": "Impressora 3D Creality Ender 3 V2",
+    "price": 259.00,
+    "description": "Impressora 3D de mesa com estrutura sólida e plataforma de impressão removível para projetos criativos."
+  },
+  {
+    "Company": "Amazon",
+    "Item": "Câmera Mirrorless Sony Alpha a7 III",
+    "price": 1998.00,
+    "description": "Câmera fotográfica de última geração com sensor full-frame, foco automático rápido e gravação de vídeo em 4K."
+  },
+  {
+    "Company": "Amazon",
+    "Item": "Fone de Ouvido Bluetooth Sony WH-1000XM4",
+    "price": 349.99,
+    "description": "Fone de ouvido sem fio com cancelamento de ruído adaptável, qualidade de áudio premium e conforto duradouro."
+  },
+  {
+    "Company": "Newegg",
+    "Item": "Placa de Vídeo MSI GeForce RTX 3060 Ti GAMING X TRIO",
+    "price": 749.99,
+    "description": "Placa de vídeo de alto desempenho com sistema de resfriamento avançado e iluminação RGB personalizável."
+  },
+  {
+    "Company": "Newegg",
+    "Item": "Monitor LG UltraWide 34 polegadas",
+    "price": 799.99,
+    "description": "Monitor ultrawide com resolução QHD e tecnologia IPS para ampla precisão de cores e imersão visual."
+  },
+  {
+    "Company": "Newegg",
+    "Item": "Teclado mecânico Razer BlackWidow Elite",
+    "price": 169.99,
+    "description": "Teclado mecânico com interruptores Razer Green e iluminação Chroma RGB para desempenho personalizável."
+  },
+  {
+    "Company": "Newegg",
+    "Item": "Fone de ouvido SteelSeries Arctis Pro Wireless",
+    "price": 329.99,
+    "description": "Fone de ouvido sem fio para jogos com áudio de alta resolução, microfone com cancelamento de ruído e conforto duradouro."
+  },
+  {
+    "Company": "Best Buy",
+    "Item": "Console Xbox Series X",
+    "price": 499.99,
+    "description": "Console de videogame de última geração com capacidade de reprodução de jogos em 4K e tecnologia de carregamento rápido."
+  },
+  {
+    "Company": "Best Buy",
+    "Item": "Smart TV Samsung QLED 65 polegadas",
+    "price": 1299.99,
+    "description": "Smart TV com resolução 4K, tecnologia de pontos quânticos e sistema operacional inteligente para entretenimento imersivo."
+  },
+  {
+    "Company": "Best Buy",
+    "Item": "Soundbar Bose Solo 5",
+    "price": 199.99,
+    "description": "Soundbar compacto com tecnologia de áudio Bose para experiência de áudio cinematográfica em casa."
+  },
+  {
+    "Company": "Best Buy",
+    "Item": "Câmera GoPro HERO9 Black",
+    "price": 449.99,
+    "description": "Câmera de ação com vídeo em 5K, estabilização avançada e resistência à água para captura de aventuras emocionantes."
+  },
+  {
+    "Company": "Best Buy",
+    "Item": "Notebook Apple MacBook Pro 13 polegadas",
+    "price": 1299.99,
+    "description": "Notebook premium com chip M1 da Apple, tela Retina e até 20 horas de duração da bateria."
+  },
+  {
+    "Company": "Kabum",
+    "Item": "Cadeira Gamer Cougar Armor One",
+    "price": 799.90,
+    "description": "Cadeira ergonômica com design robusto e suporte lombar ajustável para conforto durante longas sessões de jogo."
+  },
+  {
+    "Company": "Kabum",
+    "Item": "Gabinete Gamer Corsair Carbide Series 275R",
+    "price": 449.90,
+    "description": "Gabinete elegante com painel lateral de vidro temperado e excelente fluxo de ar para resfriamento eficiente."
+  },
+  {
+    "Company": "Kabum",
+    "Item": "Placa de Captura Elgato Game Capture HD60 S",
+    "price": 1099.90,
+    "description": "Placa de captura de vídeo com gravação em 1080p60fps e conexão USB 3.0 para streaming e gravação de jogos."
+  },
+  {
+    "Company": "Kabum",
+    "Item": "SSD Crucial BX500 1TB",
+    "price": 399.90,
+    "description": "Unidade de estado sólido com velocidades de leitura/gravação rápidas para inicialização rápida do sistema e carregamento de aplicativos."
+  },
+  {
+    "Company": "Kabum",
+    "Item": "Monitor Gamer AOC 24G2/BK",
+    "price": 1699.90,
+    "description": "Monitor Full HD com taxa de atualização de 144Hz e tecnologia FreeSync para jogos suaves e sem tearing."
+  },
+  {
+    "Company": "Amazon",
+    "Item": "Console PlayStation 5",
+    "price": 499.99,
+    "description": "Console de próxima geração com gráficos em 4K, SSD ultrarrápido e áudio imersivo para experiência de jogo avançada."
+  },
+  {
+    "Company": "Amazon",
+    "Item": "Smart TV LG OLED 55 polegadas",
+    "price": 1499.99,
+    "description": "Smart TV com tecnologia OLED, resolução 4K e inteligência artificial para cores vibrantes e contraste impressionante."
+  },
+  {
+    "Company": "Amazon",
+    "Item": "Câmera Canon EOS R6",
+    "price": 2499.00,
+    "description": "Câmera mirrorless com sensor full-frame de 20.1MP, estabilização de imagem e gravação de vídeo em 4K."
+  },
+  {
+    "Company": "Amazon",
+    "Item": "Impressora Epson EcoTank ET-2720",
+    "price": 299.99,
+    "description": "Impressora com sistema de tanque de tinta que economiza até 90% em custos de tinta e oferece impressões de alta qualidade."
+  },
+  {
+    "Company": "Amazon",
+    "Item": "Fone de Ouvido Beats Studio3 Wireless",
+    "price": 349.95,
+    "description": "Fone de ouvido sem fio com cancelamento de ruído adaptativo, áudio de alta qualidade e até 22 horas de duração da bateria."
+  },
+  {
+    "Company": "Newegg",
+    "Item": "Placa de Vídeo Gigabyte GeForce RTX 3070",
+    "price": 849.99,
+    "description": "Placa de vídeo de última geração com tecnologia de resfriamento WINDFORCE e iluminação RGB para desempenho excepcional."
+  },
+  {
+    "Company": "Newegg",
+    "Item": "Monitor ASUS ROG Swift PG279Q",
+    "price": 699.99,
+    "description": "Monitor de jogos com resolução WQHD, taxa de atualização de 165Hz e tecnologia G-SYNC para jogos suaves e sem tearing."
+  },
+  {
+    "Company": "Newegg",
+    "Item": "Teclado mecânico HyperX Alloy Origins",
+    "price": 109.99,
+    "description": "Teclado com switches HyperX Red e iluminação RGB personalizável para desempenho de digitação rápido e responsivo."
+  },
+  {
+    "Company": "Newegg",
+    "Item": "Mouse Logitech G502 HERO",
+    "price": 79.99,
+    "description": "Mouse com sensor HERO de 16K DPI, pesos ajustáveis e 11 botões programáveis para personalização avançada."
+  },
+  {
+    "Company": "Best Buy",
+    "Item": "Notebook HP Envy x360 15 polegadas",
+    "price": 899.99,
+    "description": "Notebook conversível com tela sensível ao toque Full HD, processador Ryzen 5 e placa gráfica Radeon Vega para produtividade e entretenimento."
+  },
+  {
+    "Company": "Best Buy",
+    "Item": "Projetor Epson Home Cinema 880",
+    "price": 549.99,
+    "description": "Projetor de alta definição com resolução 1080p, até 3300 lumens de brilho e conectividade HDMI para experiência de cinema em casa."
+  },
+  {
+    "Company": "Best Buy",
+    "Item": "Caixa de Som Bluetooth JBL Flip 5",
+    "price": 119.99,
+    "description": "Caixa de som portátil com design à prova d'água, até 12 horas de reprodução e som poderoso para festas em qualquer lugar."
+  },
+  {
+    "Company": "Best Buy",
+    "Item": "Disco Rígido Externo WD My Passport 2TB",
+    "price": 79.99,
+    "description": "Disco rígido portátil com capacidade de 2TB, design compacto e compatibilidade universal para armazenamento de dados seguro."
+  },
+  {
+    "Company": "Best Buy",
+    "Item": "Câmera de Segurança Google Nest Cam Outdoor",
+    "price": 199.99,
+    "description": "Câmera de segurança externa com visão noturna, resistência a intempéries e integração com o Google Assistente para monitoramento residencial inteligente."
+  },
+  {
+    "Company": "Kabum",
+    "Item": "Microfone Blue Yeti X",
+    "price": 999.90,
+    "description": "Microfone USB de alta qualidade com quatro cápsulas de condensador e iluminação LED para gravação de áudio profissional."
+  },
+  {
+    "Company": "Kabum",
+    "Item": "Placa de Vídeo AMD Radeon RX 6800 XT",
+    "price": 5699.90,
+    "description": "Placa de vídeo de alta performance com arquitetura RDNA 2 para jogos em 4K e renderização de vídeo avançada."
+  },
+  {
+    "Company": "Kabum",
+    "Item": "SSD NVMe WD Black SN850 2TB",
+    "price": 1699.90,
+    "description": "SSD NVMe de alta velocidade com capacidade de 2TB para inicialização rápida do sistema e tempos de carregamento reduzidos."
+  },
+  {
+    "Company": "Kabum",
+    "Item": "Monitor Curvo Gamer Samsung Odyssey G9",
+    "price": 9999.90,
+    "description": "Monitor ultrawide de 49 polegadas com resolução QLED e taxa de atualização de 240Hz para experiência de jogo imersiva."
+  },
+  {
+    "Company": "Kabum",
+    "Item": "Cadeira Gamer DXRacer Racing Series",
+    "price": 1699.90,
+    "description": "Cadeira ergonômica com estrutura de metal resistente e almofadas ajustáveis para suporte durante longas sessões de jogo."
+  },
+  {
+    "Company": "Amazon",
+    "Item": "Console Nintendo Switch OLED",
+    "price": 349.99,
+    "description": "Console de videogame portátil com tela OLED de 7 polegadas, controles Joy-Con e suporte a jogos em alta definição."
+  },
+  {
+    "Company": "Amazon",
+    "Item": "Fone de Ouvido Bose QuietComfort 45",
+    "price": 329.00,
+    "description": "Fone de ouvido com cancelamento de ruído ajustável, áudio imersivo e até 24 horas de duração da bateria."
+  },
+  {
+    "Company": "Amazon",
+    "Item": "Impressora Fotográfica Canon IVY Mini",
+    "price": 99.99,
+    "description": "Impressora portátil para fotos instantâneas de 2x3 polegadas, compatível com dispositivos móveis via Bluetooth."
+  },
+  {
+    "Company": "Amazon",
+    "Item": "Teclado Apple Magic Keyboard",
+    "price": 99.00,
+    "description": "Teclado sem fio com design elegante e teclas de perfil baixo para digitação confortável em dispositivos Apple."
+  },
+  {
+    "Company": "Amazon",
+    "Item": "Mouse Logitech MX Master 3",
+    "price": 99.99,
+    "description": "Mouse ergonômico com roda de rolagem e conectividade Bluetooth para produtividade e precisão."
+  },
+  {
+    "Company": "Newegg",
+    "Item": "Processador Intel Core i9-12900K",
+    "price": 649.99,
+    "description": "Processador de última geração com 16 núcleos e 24 threads para desempenho excepcional em jogos e aplicativos multitarefa."
+  },
+  {
+    "Company": "Newegg",
+    "Item": "Placa-mãe ASUS ROG Maximus Z690 Hero",
+    "price": 499.99,
+    "description": "Placa-mãe de alto desempenho com suporte a processadores Intel de 12ª geração e recursos de overclocking avançados."
+  },
+  {
+    "Company": "Newegg",
+    "Item": "Cooler CPU NZXT Kraken X73",
+    "price": 179.99,
+    "description": "Sistema de refrigeração líquida de 360mm com cabeçote de bomba RGB e ventoinhas Aer P para resfriamento silencioso e eficiente."
+  },
+  {
+    "Company": "Newegg",
+    "Item": "Memória RAM G.SKILL Trident Z RGB 32GB",
+    "price": 199.99,
+    "description": "Kit de memória DDR4 com iluminação RGB personalizável e desempenho de overclocking para experiência de jogo fluida."
+  },
+  {
+    "Company": "Best Buy",
+    "Item": "Notebook Dell XPS 13",
+    "price": 999.99,
+    "description": "Notebook ultrafino com tela InfinityEdge, processador Intel Core i7 e até 16 horas de duração da bateria."
+  },
+  {
+    "Company": "Best Buy",
+    "Item": "Monitor LG UltraGear 27GN950-B",
+    "price": 999.99,
+    "description": "Monitor Nano IPS de 27 polegadas com resolução 4K, taxa de atualização de 144Hz e tecnologia G-SYNC para jogos suaves e sem tearing."
+  },
+  {
+    "Company": "Best Buy",
+    "Item": "Câmera Sony Alpha a7 IV",
+    "price": 2499.99,
+    "description": "Câmera mirrorless com sensor full-frame de 33MP, foco automático avançado e gravação de vídeo em 4K."
+  },
+  {
+    "Company": "Best Buy",
+    "Item": "Fone de Ouvido Sennheiser HD 660 S",
+    "price": 499.99,
+    "description": "Fone de ouvido de alta fidelidade com design aberto, drivers de alta resolução e conforto excepcional."
+  }, 
+  {
+    "Company": "Kabum",
+    "Item": "Processador AMD Ryzen 9 5900X",
+    "Price": 3499.90,
+    "Description": "Processador de última geração com 12 núcleos e 24 threads para desempenho excepcional em jogos e tarefas multitarefa."
+  },
+  {
+    "Company": "Kabum",
+    "Item": "Placa de Vídeo NVIDIA GeForce RTX 3080",
+    "Price": 6999.90,
+    "Description": "Placa de vídeo topo de linha com arquitetura Ampere para jogos em 4K e renderização de vídeo ultra-rápida."
+  },
+  {
+    "Company": "Kabum",
+    "Item": "Monitor LG Ultrawide 34WL500-B",
+    "Price": 1899.90,
+    "Description": "Monitor ultrawide de 34 polegadas com resolução Full HD e tecnologia IPS para cores vibrantes e amplo ângulo de visão."
+  },
+  {
+    "Company": "Amazon",
+    "Item": "Console Microsoft Xbox Series X",
+    "Price": 2999.00,
+    "Description": "Console de última geração com gráficos em 4K, ray tracing e taxa de atualização de até 120Hz para experiência de jogo imersiva."
+  },
+  {
+    "Company": "Amazon",
+    "Item": "Smartphone Samsung Galaxy S21 Ultra",
+    "Price": 5699.00,
+    "Description": "Smartphone premium com tela Dynamic AMOLED de 6.8 polegadas, câmera de 108MP e suporte para caneta S Pen."
+  },
+  {
+    "Company": "Amazon",
+    "Item": "Notebook Apple MacBook Air M1",
+    "Price": 7999.00,
+    "Description": "Notebook ultrafino com chip M1 da Apple, até 18 horas de duração da bateria e desempenho ultrarrápido."
+  },
+  {
+    "Company": "Newegg",
+    "Item": "Placa-Mãe ASUS ROG Strix B550-F Gaming",
+    "Price": 1399.99,
+    "Description": "Placa-mãe de alto desempenho com suporte para processadores AMD Ryzen de 3ª geração e iluminação RGB Aura Sync."
+  },
+  {
+    "Company": "Newegg",
+    "Item": "Memória RAM Corsair Vengeance RGB Pro 32GB",
+    "Price": 799.99,
+    "Description": "Kit de memória DDR4 com iluminação RGB personalizável e desempenho de overclocking para jogos e multitarefa."
+  },
+  {
+    "Company": "Newegg",
+    "Item": "SSD NVMe Samsung 970 EVO Plus 1TB",
+    "Price": 799.99,
+    "Description": "SSD NVMe de alta velocidade com capacidade de 1TB para inicialização rápida do sistema e transferência de dados ultra-rápida."
+  },
+  {
+    "Company": "Best Buy",
+    "Item": "TV Sony BRAVIA OLED A8H 65 polegadas",
+    "Price": 10999.99,
+    "Description": "TV OLED de 65 polegadas com resolução 4K, tecnologia Acoustic Surface Audio e suporte para HDR Dolby Vision."
+  },
+  {
+    "Company": "Best Buy",
+    "Item": "Câmera DSLR Canon EOS 5D Mark IV",
+    "Price": 11999.99,
+    "Description": "Câmera profissional com sensor full-frame de 30.4MP, sistema AF de 61 pontos e gravação de vídeo em 4K."
+  },
+  {
+    "Company": "Best Buy",
+    "Item": "Console Sony PlayStation 5 Digital Edition",
+    "Price": 2799.99,
+    "Description": "Console de videogame sem disco com gráficos em 4K, SSD ultra-rápido e áudio 3D para experiência de jogo imersiva."
+  }
+]
+
+
+
