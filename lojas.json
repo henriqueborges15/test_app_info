@@ -518,74 +518,74 @@
   {
     "Company": "Kabum",
     "Item": "Processador AMD Ryzen 9 5900X",
-    "Price": 3499.90,
-    "Description": "Processador de última geração com 12 núcleos e 24 threads para desempenho excepcional em jogos e tarefas multitarefa."
+    "price": 3499.90,
+    "description": "Processador de última geração com 12 núcleos e 24 threads para desempenho excepcional em jogos e tarefas multitarefa."
   },
   {
     "Company": "Kabum",
     "Item": "Placa de Vídeo NVIDIA GeForce RTX 3080",
-    "Price": 6999.90,
-    "Description": "Placa de vídeo topo de linha com arquitetura Ampere para jogos em 4K e renderização de vídeo ultra-rápida."
+    "price": 6999.90,
+    "description": "Placa de vídeo topo de linha com arquitetura Ampere para jogos em 4K e renderização de vídeo ultra-rápida."
   },
   {
     "Company": "Kabum",
     "Item": "Monitor LG Ultrawide 34WL500-B",
-    "Price": 1899.90,
-    "Description": "Monitor ultrawide de 34 polegadas com resolução Full HD e tecnologia IPS para cores vibrantes e amplo ângulo de visão."
+    "price": 1899.90,
+    "description": "Monitor ultrawide de 34 polegadas com resolução Full HD e tecnologia IPS para cores vibrantes e amplo ângulo de visão."
   },
   {
     "Company": "Amazon",
     "Item": "Console Microsoft Xbox Series X",
-    "Price": 2999.00,
-    "Description": "Console de última geração com gráficos em 4K, ray tracing e taxa de atualização de até 120Hz para experiência de jogo imersiva."
+    "price": 2999.00,
+    "description": "Console de última geração com gráficos em 4K, ray tracing e taxa de atualização de até 120Hz para experiência de jogo imersiva."
   },
   {
     "Company": "Amazon",
     "Item": "Smartphone Samsung Galaxy S21 Ultra",
-    "Price": 5699.00,
-    "Description": "Smartphone premium com tela Dynamic AMOLED de 6.8 polegadas, câmera de 108MP e suporte para caneta S Pen."
+    "price": 5699.00,
+    "description": "Smartphone premium com tela Dynamic AMOLED de 6.8 polegadas, câmera de 108MP e suporte para caneta S Pen."
   },
   {
     "Company": "Amazon",
     "Item": "Notebook Apple MacBook Air M1",
-    "Price": 7999.00,
-    "Description": "Notebook ultrafino com chip M1 da Apple, até 18 horas de duração da bateria e desempenho ultrarrápido."
+    "price": 7999.00,
+    "description": "Notebook ultrafino com chip M1 da Apple, até 18 horas de duração da bateria e desempenho ultrarrápido."
   },
   {
     "Company": "Newegg",
     "Item": "Placa-Mãe ASUS ROG Strix B550-F Gaming",
-    "Price": 1399.99,
-    "Description": "Placa-mãe de alto desempenho com suporte para processadores AMD Ryzen de 3ª geração e iluminação RGB Aura Sync."
+    "price": 1399.99,
+    "description": "Placa-mãe de alto desempenho com suporte para processadores AMD Ryzen de 3ª geração e iluminação RGB Aura Sync."
   },
   {
     "Company": "Newegg",
     "Item": "Memória RAM Corsair Vengeance RGB Pro 32GB",
-    "Price": 799.99,
-    "Description": "Kit de memória DDR4 com iluminação RGB personalizável e desempenho de overclocking para jogos e multitarefa."
+    "price": 799.99,
+    "description": "Kit de memória DDR4 com iluminação RGB personalizável e desempenho de overclocking para jogos e multitarefa."
   },
   {
     "Company": "Newegg",
     "Item": "SSD NVMe Samsung 970 EVO Plus 1TB",
-    "Price": 799.99,
-    "Description": "SSD NVMe de alta velocidade com capacidade de 1TB para inicialização rápida do sistema e transferência de dados ultra-rápida."
+    "price": 799.99,
+    "description": "SSD NVMe de alta velocidade com capacidade de 1TB para inicialização rápida do sistema e transferência de dados ultra-rápida."
   },
   {
     "Company": "Best Buy",
     "Item": "TV Sony BRAVIA OLED A8H 65 polegadas",
-    "Price": 10999.99,
-    "Description": "TV OLED de 65 polegadas com resolução 4K, tecnologia Acoustic Surface Audio e suporte para HDR Dolby Vision."
+    "price": 10999.99,
+    "description": "TV OLED de 65 polegadas com resolução 4K, tecnologia Acoustic Surface Audio e suporte para HDR Dolby Vision."
   },
   {
     "Company": "Best Buy",
     "Item": "Câmera DSLR Canon EOS 5D Mark IV",
-    "Price": 11999.99,
-    "Description": "Câmera profissional com sensor full-frame de 30.4MP, sistema AF de 61 pontos e gravação de vídeo em 4K."
+    "price": 11999.99,
+    "description": "Câmera profissional com sensor full-frame de 30.4MP, sistema AF de 61 pontos e gravação de vídeo em 4K."
   },
   {
     "Company": "Best Buy",
     "Item": "Console Sony PlayStation 5 Digital Edition",
-    "Price": 2799.99,
-    "Description": "Console de videogame sem disco com gráficos em 4K, SSD ultra-rápido e áudio 3D para experiência de jogo imersiva."
+    "price": 2799.99,
+    "description": "Console de videogame sem disco com gráficos em 4K, SSD ultra-rápido e áudio 3D para experiência de jogo imersiva."
   }
 ]
 
